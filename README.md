@@ -34,8 +34,6 @@ This is a simple web-based Dad Jokes generator that fetches random dad jokes fro
 ## API Integration
 This project uses the [icanhazdadjoke](https://icanhazdadjoke.com/) API to fetch random dad jokes. The request is made using JavaScript's Fetch API with async/await.
 
-## Preview
-![Dad Jokes Preview](https://via.placeholder.com/800x400?text=Project+Preview)
 
 ## License
 This project is open-source and available under the MIT License.
