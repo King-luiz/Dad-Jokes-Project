@@ -18,7 +18,7 @@ This is a simple web-based Dad Jokes generator that fetches random dad jokes fro
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dad-jokes.git
+   git clone https://github.com/King-luiz/dad-jokes.git
    ```
 2. Open `index.html` in your browser.
 3. Click the "Get Another Joke" button to fetch and display a new joke.
@@ -33,6 +33,7 @@ This is a simple web-based Dad Jokes generator that fetches random dad jokes fro
 
 ## API Integration
 This project uses the [icanhazdadjoke](https://icanhazdadjoke.com/) API to fetch random dad jokes. The request is made using JavaScript's Fetch API with async/await.
+
 
 
 ## License
